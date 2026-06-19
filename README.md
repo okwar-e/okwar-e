@@ -4,12 +4,11 @@
 
 # Hi there, I'm Okware Collins Papa 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I'm a Computer Science student at Strathmore University passionate about building software solutions that solve real-world problems. I enjoy full-stack development, entrepreneurship, and creating digital products that connect people and businesses. My goal is to build impactful technology while continuously growing as a software engineer.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
-
+- 🔭 **Current Focus:** Building **Bizi**, a platform that helps businesses collaborate with content creators for marketing and brand growth.
+- 🌱 **Learning & Exploration:** Full-Stack Development, Software Architecture, AI Applications, Cloud Technologies, and Product Development.
+- ⚡ **Core Interests:** Software Engineering, SaaS Products, Entrepreneurship, Web Development, Artificial Intelligence, and Digital Innovation.
 ---
 
 ## Technical Ecosystem
@@ -23,15 +22,6 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 ---
-
-## GitHub Stats# Hi there, I'm Okware Collins Papa 👋
-
-I'm a Computer Science student at Strathmore University passionate about building software solutions that solve real-world problems. I enjoy full-stack development, entrepreneurship, and creating digital products that connect people and businesses. My goal is to build impactful technology while continuously growing as a software engineer.
-
-- 🔭 **Current Focus:** Building **Bizi**, a platform that helps businesses collaborate with content creators for marketing and brand growth.
-- 🌱 **Learning & Exploration:** Full-Stack Development, Software Architecture, AI Applications, Cloud Technologies, and Product Development.
-- ⚡ **Core Interests:** Software Engineering, SaaS Products, Entrepreneurship, Web Development, Artificial Intelligence, and Digital Innovation.
-
 ---
 
 ### Core Competencies & Core Stack
